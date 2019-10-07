@@ -1,0 +1,7 @@
+C:\Temp\RenamePNumbers\RenamePNumbers\bin\Debug\RenamePNumbers.exe
+C:\Temp\RenamePNumbers\RenamePNumbers\bin\Debug\RenamePNumbers.pdb
+C:\Temp\RenamePNumbers\RenamePNumbers\obj\x86\Debug\RenamePNumbers.Form1.resources
+C:\Temp\RenamePNumbers\RenamePNumbers\obj\x86\Debug\RenamePNumbers.Properties.Resources.resources
+C:\Temp\RenamePNumbers\RenamePNumbers\obj\x86\Debug\RenamePNumbers.csproj.GenerateResource.Cache
+C:\Temp\RenamePNumbers\RenamePNumbers\obj\x86\Debug\RenamePNumbers.exe
+C:\Temp\RenamePNumbers\RenamePNumbers\obj\x86\Debug\RenamePNumbers.pdb
